@@ -1,6 +1,6 @@
 """
 =============================================================================
-PC4 - Reproduccion Experimental del Paper
+ - Reproduccion Experimental del Paper
 Paper: "Comparison of Classification Methods Based on the Type of
         Attributes and Sample Size"
 Autores: Waleed Aloraini, Mohammed Mahdi Alenezi (2022)
