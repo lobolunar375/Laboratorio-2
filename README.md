@@ -36,7 +36,7 @@ Implementa y compara **8 algoritmos de Machine Learning y Deep Learning** para c
 ## Estructura del Proyecto
 
 ```
-PC4/
+Ia2/
 ├── preprocessing.py        # Carga, limpieza, filtrado DoS/Normal, encoding, escalado
 ├── feature_selection.py    # Seleccion de 20 features con Chi-cuadrado (SelectKBest)
 ├── models.py               # Definicion y entrenamiento de los 8 modelos
